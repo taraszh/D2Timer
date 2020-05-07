@@ -7,8 +7,6 @@ https://github.com/antonpup/Dota2GSI
 
 Program reminds about spawn runes, respawn of neutrals, observer wards and tome of knowledge restock time.
 
-![alt text](https://github.com/TarasNei/DotaHelper/blob/master/readme%20img/main.png?raw=true)
-
 Notifications are provider by sound signals and displaying text.
 
 ![alt text](https://github.com/TarasNei/DotaHelper/blob/master/readme%20img/visualNotifications.png?raw=true)
