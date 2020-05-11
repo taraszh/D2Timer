@@ -1,11 +1,12 @@
-dota2 helper - is a rune, camp and some items timer.
+justforfun, first java project
+D2 rune, camp and some items timer.
 
-For timer calculations used Dota 2 Game State Integration
+For timer calculations used Game State Integration
 
-more info and C# lib 
+more info
 https://github.com/antonpup/Dota2GSI
 
-Program reminds about spawn runes, respawn of neutrals, observer wards and tome of knowledge restock time.
+Reminds about spawn of the runes, respawn of neutrals, observer wards and tome of knowledge restock time.
 
 Notifications are provider by sound signals and displaying text.
 
